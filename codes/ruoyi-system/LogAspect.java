@@ -191,7 +191,6 @@ public class LogAspect
     {
         return new PropertyPreFilters().addFilter().addExcludes(ArrayUtils.addAll(EXCLUDE_PROPERTIES, excludeParamNames));
     }
-
     /**
      * 参数拼装
      */
