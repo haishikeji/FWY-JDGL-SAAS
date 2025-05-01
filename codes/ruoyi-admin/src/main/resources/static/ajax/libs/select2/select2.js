@@ -2680,6 +2680,7 @@ S2.define('select2/diacritics',[
     '\u1EF2': 'Y',
     '\u00DD': 'Y',
     '\u0176': 'Y',
+
     '\u1EF8': 'Y',
     '\u0232': 'Y',
     '\u1E8E': 'Y',
